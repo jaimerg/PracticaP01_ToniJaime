@@ -22,5 +22,7 @@ public class Comparador {
 		Collections.sort(list, new ComparadorCochePorCilindrada());
 		System.out.println("Mostramos ordenada por cilindrada");
 		System.out.println(list);
+		
+		System.out.println("Eclipse B , hizo cambio");
 	}
 }
