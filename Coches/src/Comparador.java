@@ -24,5 +24,6 @@ public class Comparador {
 		System.out.println(list);
 		
 		System.out.println("Eclipse B , hizo cambio");
+		//Toni provocara un conflicto
 	}
 }
